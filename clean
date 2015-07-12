@@ -1,0 +1,2 @@
+gulp.task('clean', function () {
+  del(['js/bundle.js'])
