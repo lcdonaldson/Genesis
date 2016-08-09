@@ -1,5 +1,18 @@
-# I'm Not Sure what this was supposed to be
+# Decided to make this an index of sorts.
 
-However, it is now simply a readme file. I guess it will be kind of cool to lookback and see what I acomplished
-through github years from now. 
+Python Repos - will start with py- (example: py-first_project)
+
+Django Repos - will start with dj- (example: dj-first_project)
+
+React Repos - will start with rct- (example: rct-first_project)
+
+Less Repos - will start with ls- (example: ls-first_project)
+
+Java Repos - will start with jv- (example: jv-first_project)
+
+Javascript Repos - will start with js- (example: js-first_project)
+
+CSS Repos - will just be css-
+
+
 
