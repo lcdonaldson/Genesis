@@ -12,6 +12,8 @@ Java Repos - will start with jv- (example: jv-first_project)
 
 Javascript Repos - will start with js- (example: js-first_project)
 
+Angular Repos - will start with ang- (example: ang-first_project)
+
 CSS Repos - will just be css-
 
 
