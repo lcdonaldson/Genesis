@@ -16,8 +16,6 @@ Angular Repos - will start with ang- (example: ang-first_project)
 
 Ruby Repos - will start with rb- * I think you've got the examples down now huh.
 
-C repos - will simply be c-
-
 CSS Repos - will just be css-
 
 
