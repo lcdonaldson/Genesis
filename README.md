@@ -18,8 +18,6 @@ Ruby Repos - will start with rb- * I think you've got the examples down now huh.
 
 SQL - will just be sql-
 
-R - will just be r-
-
 CSS Repos - will just be css-
 
 
