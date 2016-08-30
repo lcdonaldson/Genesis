@@ -16,6 +16,8 @@ Angular Repos - will start with ang- (example: ang-first_project)
 
 Ruby Repos - will start with rb- * I think you've got the examples down now huh.
 
+Backbone - will just be bkb-
+
 SQL - will just be sql-
 
 CSS Repos - will just be css-
