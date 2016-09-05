@@ -18,6 +18,8 @@ Ruby Repos - will start with rb- * I think you've got the examples down now huh.
 
 Backbone - will just be bkb-
 
+.NET - will be net-
+
 SQL - will just be sql-
 
 CSS Repos - will just be css-
