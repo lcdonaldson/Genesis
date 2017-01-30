@@ -20,6 +20,8 @@ Backbone - will just be bkb-
 
 Node - will just be nd-
 
+KeystoneJS - will just bd ks-
+
 Ionic - will just be ic-
 
 .NET - will be net-
