@@ -24,6 +24,10 @@ KeystoneJS - will just bd ks-
 
 Ionic - will just be ic-
 
+Elixir - will just be elix-
+
+Phoenix - will just be phx-
+
 .NET - will be net-
 
 SQL - will just be sql-
