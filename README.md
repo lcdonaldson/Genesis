@@ -24,6 +24,8 @@ KeystoneJS - will just bd ks-
 
 Ionic - will just be ic-
 
+Erlang - will just be erl-
+
 Elixir - will just be elix-
 
 Phoenix - will just be phx-
