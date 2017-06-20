@@ -26,7 +26,7 @@ Ionic - will just be ic-
 
 Erlang - will just be erl-
 
-Elixir - will just be elix-
+Elixir - will just be eli-
 
 Phoenix - will just be phx-
 
