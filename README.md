@@ -2,9 +2,13 @@
 
 Python Repos - will start with py- (example: py-first_project)
 
+Flask Repos - will start with fsk- (example: fsk-first_project)
+
 Django Repos - will start with dj- (example: dj-first_project)
 
 React Repos - will start with rct- (example: rct-first_project)
+
+React Native - will start with rn- (example: rn-first_project)
 
 Less Repos - will start with ls- (example: ls-first_project)
 
