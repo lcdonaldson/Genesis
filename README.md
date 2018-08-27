@@ -42,5 +42,7 @@ CSS Repos - will just be css-
 
 Vue Repos - will be v-
 
+NativeScript - will be nsv- for vue, nsa- for angular
+
 
 
