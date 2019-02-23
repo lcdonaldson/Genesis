@@ -1,4 +1,3 @@
-
 /***** just added this so I could remember how to set up a gulp task *********/
 gulp.task('clean', function () {
   del(['js/bundle.js'])
