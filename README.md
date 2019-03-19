@@ -28,8 +28,6 @@ Elixir - will just be eli-
 
 Phoenix - will just be phx-
 
-.NET - will be net-
-
 SQL - will just be sql-
 
 CSS Repos - will just be css-
