@@ -38,6 +38,8 @@ NativeScript - will be nsv- for vue, nsa- for angular
 
 Progressive Web App - are pwa-
 
+Quasar - will be q-
+
 Regex will be - rgx (regex will be followed by language specs like this. rgx-py = regex python) 
 
 
