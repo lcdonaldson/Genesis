@@ -30,6 +30,8 @@ Phoenix - will just be phx-
 
 SQL - will just be sql-
 
+Svelte - will just be svl-
+
 CSS Repos - will just be css-
 
 Vue Repos - will be v-
