@@ -1,4 +1,4 @@
-# Decided to make this an index of sorts.
+# Index of repository codes.
 
 Python Repos - will start with py- (example: py-first_project)
 
