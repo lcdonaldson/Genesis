@@ -16,8 +16,6 @@ Javascript Repos - will start with js- (example: js-first_project)
 
 Angular Repos - will start with ang- (example: ang-first_project)
 
-Backbone - will just be bkb-
-
 Node - will just be nd-
 
 KeystoneJS - will just bd ks-
