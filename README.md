@@ -36,9 +36,7 @@ NativeScript - will be nsv- for vue, nsa- for angular
 
 Progressive Web App - are pwa-
 
-Quasar - will be q-
-
-Regex will be - rgx (regex will be followed by language specs like this. rgx-py = regex python) 
+Quasar - will be q- 
 
 
 ** At this point there are 66 active repos but almost all of them need to be archived, turned private or just deleted. However, If this is done before a year of them being inactive then it removes my tracked progress in the coding chart. So I will be eliminating these one by one as they reach that year mark. Therefore, my inital repo count will climb dramatically before falling back down to a manageable number over this next year. **
