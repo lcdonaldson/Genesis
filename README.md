@@ -10,7 +10,7 @@ React Repos - will start with rct- (example: rct-first_project)
 
 React Native - will start with rn- (example: rn-first_project)
 
-TypeScript - will start with ts-(example: ts-first_project)
+TypeScript - will start with ts-
 
 Javascript Repos - will start with js-
 
