@@ -12,7 +12,7 @@ React Native - will start with rn- (example: rn-first_project)
 
 TypeScript - will start with ts-(example: ts-first_project)
 
-Javascript Repos - will start with js- (example: js-first_project)
+Javascript Repos - will start with js-
 
 Angular Repos - will start with ang-
 
