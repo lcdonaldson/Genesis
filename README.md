@@ -8,7 +8,7 @@ Django Repos - will start with dj- (example: dj-first_project)
 
 React Repos - will start with rct- (example: rct-first_project)
 
-React Native - will start with rn- (example: rn-first_project)
+React Native - will start with rn-
 
 TypeScript - will start with ts-
 
