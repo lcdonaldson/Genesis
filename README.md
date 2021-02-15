@@ -4,9 +4,9 @@ Python Repos - will start with py- (example: py-first_project)
 
 Flask Repos - will start with fsk- (example: fsk-first_project)
 
-Django Repos - will start with dj- (example: dj-first_project)
+React Repos - will start with rct- (example: rct-first_project)
 
-React Repos - will start with rct-
+Django Repos - will start with dj-
 
 React Native - will start with rn-
 
