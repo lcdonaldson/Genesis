@@ -34,7 +34,7 @@ CSS Repos - will just be css-
 
 Vue Repos - will be v-
 
-NativeScript - will be nsv- for vue, nsa- for angular
+NativeScript - will be nsv- for vue
 
 Progressive Web App - are pwa-
 
