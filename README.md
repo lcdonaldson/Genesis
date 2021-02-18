@@ -20,8 +20,6 @@ Node - will just be nd-
 
 KeystoneJS - will just bd ks-
 
-Erlang - will just be erl-
-
 Elixir - will just be eli-
 
 Phoenix - will just be phx-
