@@ -14,8 +14,6 @@ TypeScript - will start with ts-
 
 Javascript Repos - will start with js-
 
-Angular Repos - will start with ang-
-
 Node - will just be nd-
 
 KeystoneJS - will just bd ks-
