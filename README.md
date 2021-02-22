@@ -6,8 +6,6 @@ Flask Repos - will start with fsk- (example: fsk-first_project)
 
 React Repos - will start with rct- (example: rct-first_project)
 
-Django Repos - will start with dj-
-
 React Native - will start with rn-
 
 TypeScript - will start with ts-
